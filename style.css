@@ -1,3 +1,4 @@
+
 body {
   background-color: rgb(0, 121, 191);
 }
@@ -53,4 +54,10 @@ body {
 
 .type-elem {
   font-size: 10px;
+  background-color: rgb(0, 121, 191);
+  border-radius: 3px;
+  color: #fff;
+  padding: 4px;
+  display: inline-block;
+  letter-spacing: 0.8px;
 }
